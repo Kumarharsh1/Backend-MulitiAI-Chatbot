@@ -10,3 +10,7 @@ fastapi-cors==0.0.6
 python-dateutil==2.8.2
 feedparser==6.0.8
 gunicorn==21.2.0
+streamlit==1.28.1
+requests==2.31.0
+python-dotenv==1.0.0
+
