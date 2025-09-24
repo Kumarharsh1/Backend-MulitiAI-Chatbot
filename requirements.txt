@@ -8,5 +8,6 @@ aiohttp>=3.12.15
 python-multipart==0.0.6
 fastapi-cors==0.0.6
 python-dateutil==2.8.2
-feedparser>=6.0.13  # Use a newer, available version
+feedparser==6.0.12  # Fixed: using an existing version
 gunicorn==21.2.0
+
